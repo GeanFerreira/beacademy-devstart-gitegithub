@@ -1,2 +1,1 @@
-# beacademy-devstart-gitegithub
- 
+# Conhecendo o Git e Github
