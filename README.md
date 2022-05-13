@@ -29,8 +29,8 @@
  + git push - Enviar o repositório local para um repositório remoto
   
   
- ####Autor
+ <h4>Autor</h4>
   - Gean Marcel Ferreira (https://github.com/GeanFerreira)
   
- #####Agradecimentos:
+ <h5>Agradecimentos:</h5>
   Aos instrutores Regis e Luan da beacademy, que me ajudodaram a entender como funciona o controle de versão utilizando Git e Github.
