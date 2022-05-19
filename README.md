@@ -33,4 +33,4 @@
   - Gean Marcel Ferreira (https://github.com/GeanFerreira)
   
  <h5>Agradecimentos:</h5>
-  Aos instrutores Regis e Luan da beacademy, que me ajudodaram a entender como funciona o controle de versão utilizando Git e Github.
+  Aos instrutores Regis e Luan da beacademy, que me ajudaram a entender como funciona o controle de versão utilizando Git e Github.
